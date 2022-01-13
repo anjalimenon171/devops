@@ -1,2 +1,0 @@
-This is fileA
---version1 new changes
