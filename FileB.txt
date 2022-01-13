@@ -1,2 +1,0 @@
-This is fileB
-Version2
